@@ -34,11 +34,6 @@ export default function Navbar() {
                 About
               </Link>
             </li>
-            <li className="nav-item">
-              <Link to={'AddUser'}  className="nav-link" >
-              AddUser
-              </Link>
-            </li>
           </ul>
         </div>
       </div>
