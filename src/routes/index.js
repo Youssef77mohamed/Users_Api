@@ -6,7 +6,6 @@ import UsersPage from "../pages/UsersPage";
 import UserPage from "../pages/UserPage";
 import UserPosts from "../pages/Posts";
 import UserTodo from "../pages/TodosUsers";
-import AddUser from "../pages/AddUser";
 
 export const RootRoutes = [
     {
