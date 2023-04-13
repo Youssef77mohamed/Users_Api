@@ -23,11 +23,6 @@ export const RootRoutes = [
           element: <AboutPage />
         },
         {
-          path: 'AddUser',
-          element: <AddUser />
-        },
-      
-        {
             path: 'users/:userId',
             element: <UserPage />
         },
